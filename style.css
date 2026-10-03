@@ -1,0 +1,39 @@
+header{
+    background-color: tomato;
+    border-style:solid;
+    border-color: tomato;
+    border-width: 10px;
+    border-radius: 20px;
+}
+#buttons {
+    display: flex;
+    gap: 10px;
+}
+#this button{
+
+    gap: 10
+    0px;
+}
+#hada{
+    font-size: 50px;
+    color: lime;
+
+}
+main{
+    background-color: blanchedalmond;
+}
+footer{
+    background-color: blueviolet;
+}
+#next button{
+    position:absolute;
+    background-color: antiquewhite;
+    font-size: 30px;
+    
+}
+#next{
+    display: flex;
+    justify-content: center;
+    background-color: turquoise;
+
+}
